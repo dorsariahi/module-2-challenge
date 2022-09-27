@@ -53,7 +53,7 @@ body {
     height: 400px;
     border: 1px solid bisque;
     margin: 5px;
-    background-image: url(./soft.jpg);
+    background-image: url(./images/soft.jpg);
     background-size: cover;
 }
 
@@ -87,25 +87,25 @@ body {
 }
 
 #project2 {
-    background-image: url(./moon\ zoom.jpg);
+    background-image: url(./images/moon\ zoom.jpg);
     background-size: cover;
     background-position: top;
 }
 
 #project3 {
-    background-image: url(./moon.jpg);
+    background-image: url(./images/moon.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #project4 {
-    background-image: url(./sun.webp);
+    background-image: url(./images/sun.webp);
     background-size: cover;
     background-position: top;
 }
 
 #project5 {
-    background-image: url(./stone.jpg);
+    background-image: url(./images/stone.jpg);
     background-size: cover;
     background-position: top;
 }
