@@ -112,6 +112,8 @@ body {
 
 #footer {
     list-style-type: none;
+    display: flex;
+    align-items: center;
 }
 
 @media screen {}
