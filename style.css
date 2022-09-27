@@ -23,11 +23,11 @@ body {
 
 .header-container ul {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     list-style-type: none;
     height: 100%;
-    align-items: center;
-    justify-content: flex-end;
+    align-items: baseline;
+    font-size: 19px;
 }
 
 .header-container ul li {
