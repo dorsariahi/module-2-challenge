@@ -53,8 +53,8 @@ body {
     height: 400px;
     border: 2px solid rgb(119, 20, 248);
     margin: 5px;
-    background-image: url(./images/soft.jpg);
-    background-size: cover;
+    background-image: url(./images/images.jpg);
+    background-size: contain;
 }
 
 #second-box {
@@ -87,25 +87,25 @@ body {
 }
 
 #project2 {
-    background-image: url(./images/moon\ zoom.jpg);
+    background-image: url(./images/download.png);
     background-size: cover;
     background-position: top;
 }
 
 #project3 {
-    background-image: url(./images/moon.jpg);
+    background-image: url(./images/download.png);
     background-size: cover;
     background-position: center;
 }
 
 #project4 {
-    background-image: url(./images/sun.webp);
+    background-image: url(./images/download.png);
     background-size: cover;
     background-position: top;
 }
 
 #project5 {
-    background-image: url(./images/stone.jpg);
+    background-image: url(./images/download.png);
     background-size: cover;
     background-position: top;
 }
